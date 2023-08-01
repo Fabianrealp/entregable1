@@ -1,6 +1,6 @@
 import { getRandon } from "../utils/ramdom";
 import "./styles/QuoteBox.css";
-const imgPlanets=["/images/planet1.1.jpg","/images/planet2.2.jpg","/images/planet3.3.jpg","/images/planet4.4.jpg"]
+const imgPlanets=["/public/images/planet1.1.jpg","/public/images/planet2.2.jpg","/public/images/planet3.3.jpg","/public/images/planet4.4.jpg"]
 const QuoteBox = ({ handleChangeQuote, quote }) => {
   return (
     <section className="quoteBox">

@@ -2,7 +2,7 @@ import "./App.css";
 import quotes from "./db/quote.json";
 import { useState } from "react";
 import { getRandon } from "./utils/ramdom";
-import QuoteBox from "./componets/Quotebox";
+import QuoteBox from "./componets/QuoteBox";
 
 const listPlanet = ["planet1", "planet2", "planet3", "planet4"];
 function App() {

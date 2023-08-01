@@ -1,16 +1,23 @@
-html{
+html {
   box-sizing: border-box;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color:#ffffff;
-font-size: 1.5rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ffffff;
+  font-size: 1.5rem;
 }
-*,*::after, *::before{
-  box-sizing:inherit;
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
   font-family: inherit;
 }
-body{
+body {
   margin: 0;
 }
-h1, h2, h3, h4, h5, h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 0;
 }

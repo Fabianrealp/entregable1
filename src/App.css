@@ -4,17 +4,17 @@
   background-size: cover;
 }
 .planet1 {
-  background-image: url('/public/images/planet1.jpg')
+  background-image: url('/images/planet1.jpg')
 }
 
 .planet2 {
-  background-image:url('/public/images/planet2.jpg')
+  background-image:url('/images/planet2.jpg')
 }
 
 .planet3 {
-  background-image: url('/public/images/planet3.jpg')
+  background-image: url('/images/planet3.jpg')
 }
 
 .planet4 {
-  background-image: url('/public/images/planet4.jpg')
+  background-image: url('/images/planet4.jpg')
 }

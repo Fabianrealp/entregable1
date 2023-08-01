@@ -13,8 +13,7 @@ function App() {
  const handleChangeQuote=()=>{
   setQuote(getRandon(quotes))
 setCurrentPlanet(getRandon(listPlanet))
-
-  }
+}
 
   return (
     <main className={`App ${currentPlanet}`}>

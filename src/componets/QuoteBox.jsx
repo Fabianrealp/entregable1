@@ -23,4 +23,4 @@ const QuoteBox = ({ handleChangeQuote, quote }) => {
   );
 };
 
-export default QuoteBox;
+export default QuoteBoX;
